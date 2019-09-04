@@ -7,6 +7,9 @@
  * \Date
  * 03 - 09 - 2019
  * 
+ * \Author
+ * Raji Olaoluwa
+ *
  * \Libraries used
  * IRremote.h by Ken Shirriff
  * LiquidCrystal.h
