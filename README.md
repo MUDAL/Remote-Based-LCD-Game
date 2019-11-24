@@ -8,6 +8,7 @@
 * This program allows you to control a custom character on the LCD and avoid moving obstacles.
 * A remote is used to control the character.
 * Once the character collides with an obstacle, a buzzer is activated and 'Game Over' is displayed.
+*ENJOY!!!
 
 # Hardware:
 * 16 x 2 LCD module
