@@ -14,7 +14,7 @@
 * Ks0088 Infrared Wireless Remote
 * 10k Potentiometer
 * TL1838-Infrared Receiver
-* Buzzer
+* Active Buzzer
 
 # Libraries used:
 * IRremote.h by Ken Shirriff
